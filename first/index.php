@@ -156,7 +156,7 @@
 									{
 									  
 									     console.log("Blakberu je prosao ");
-									   
+									   <!--k,cvj bsdj kb vjklbvj,.x-->
 									}
 								
 									// if (ua.indexOf("BlackBerry") >= 0) {
